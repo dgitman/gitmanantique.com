@@ -6,7 +6,14 @@ Website for **Gitman Antique Watches &amp; Rarities** — a premier horological 
 
 ## Contents
 
-- `index.html` — the complete single-page site (self-contained; fonts loaded from Google Fonts).
+- `index.html` — homepage for Gitman Antique Watches & Rarities.
+- `sell-antique-watches/` — information for owners considering a sale.
+- `antique-watch-appraisals/` — appraisal guidance.
+- `pocket-watch-buyers/` — focused pocket-watch information.
+- `watch-clock-repair/` — repair inquiry guidance.
+- `about-howard-gitman/` and `contact/` — credentials and contact information.
+- `assets/` — shared styles, decorative assets, social preview, and site icons.
+- `robots.txt`, `sitemap.xml`, and `manifest.webmanifest` — crawl and browser metadata.
 - `CNAME` — custom domain configuration for GitHub Pages (`gitmanantique.com`).
 - `.nojekyll` — tells GitHub Pages to serve the files as-is without Jekyll processing.
 
